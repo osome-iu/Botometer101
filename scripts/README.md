@@ -66,5 +66,4 @@ Note that bot detection might take longer than the previous steps.
 For data analysis, please refer to the jupyter notebook under folder [`/exps`](/exps).
 
 Note that we are unable to share the raw tweets we collected due to Twitter's policy.
-To reproduce the analysis, you will need to collect data by yourself.
-Since the collect data change, the results of the analysis will likely to be different as well.
+To reproduce the analysis, you will need to collect data by yourself and the results of the analysis will likely change.
