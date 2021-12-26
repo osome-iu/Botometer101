@@ -46,7 +46,7 @@ If you also want to replicate the analysis, you will also need
 # Community Guidelines
 
 If you have questions about this project, please create issues.
-You are also welcome to fork the project, modifying the code, and creating pull requests.
+You are also welcome to fork the project, modify the code, and create pull requests.
 Please use clear and organized descriptions when creating issues and pull requests.
 
 # Cite the paper
