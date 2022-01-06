@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains the code for the paper "Botometer 101: Social bot practicum for computational social scientists."
+This repository contains the code for the paper ["Botometer 101: Social bot practicum for computational social scientists."](https://arxiv.org/abs/2201.01608)
 
 To demonstrate how to use [Botometer](https://botometer.osome.iu.edu/) for bot detection in research, we provide a simple case study and share the source code here.
 
