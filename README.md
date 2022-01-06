@@ -54,5 +54,10 @@ Please use clear and organized descriptions when creating issues and pull reques
 Please cite the paper as:
 
 ```
-To be filled
+@article{yang2022botometer,
+  title={Botometer 101: Social bot practicum for computational social scientists},
+  author={Yang, Kai-Cheng and Ferrara, Emilio and Menczer, Filippo},
+  journal={arXiv:2201.01608},
+  year={2022}
+}
 ```
