@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains the code for the paper ["Botometer 101: Social bot practicum for computational social scientists."](https://arxiv.org/abs/2201.01608)
+This repository contains the code for the paper ["Botometer 101: Social bot practicum for computational social scientists."](https://doi.org/10.1007/s42001-022-00177-5)
 
 To demonstrate how to use [Botometer](https://botometer.osome.iu.edu/) for bot detection in research, we provide a simple case study and share the source code here.
 
@@ -57,7 +57,8 @@ Please cite the paper as:
 @article{yang2022botometer,
   title={Botometer 101: Social bot practicum for computational social scientists},
   author={Yang, Kai-Cheng and Ferrara, Emilio and Menczer, Filippo},
-  journal={arXiv:2201.01608},
-  year={2022}
+  journal={Journal of Computational Social Science},
+  year={2022},
+  doi={10.1007/s42001-022-00177-5}
 }
 ```
