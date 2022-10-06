@@ -53,7 +53,7 @@ Please use clear and organized descriptions when creating issues and pull reques
 
 Please cite the paper as:
 
-```
+```bib
 @article{yang2022botometer,
   title={Botometer 101: Social bot practicum for computational social scientists},
   author={Yang, Kai-Cheng and Ferrara, Emilio and Menczer, Filippo},
